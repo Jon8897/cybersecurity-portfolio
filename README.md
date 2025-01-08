@@ -54,16 +54,6 @@ This repository is designed to:
 
 ---
 
-### **Contact**
-
-Feel free to contact me with questions about this portfolio or to discuss my work further:
-
-- **GitHub**: [Jon8897](https://github.com/Jon8897)
-- **LinkedIn**: [Jonathan Keefe](https://www.linkedin.com/in/jonathan-keefe-39022b175/)
-- **Email**: jonathankeefe08@gmail.com
-
----
-
 ### **Additional Content**
 
 - [Professional Statement](./PROFESSIONAL_STATEMENT.md)
