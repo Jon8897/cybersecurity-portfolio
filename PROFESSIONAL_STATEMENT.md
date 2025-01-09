@@ -21,7 +21,7 @@ What excites me most about the field of cybersecurity is the opportunity to work
 
 ---
 
-## Contributions to Organizations
+## Contributions to Organisations
 - Developing robust security measures and identifying risks before they become critical
 - Staying updated with the latest cybersecurity technologies and methods
 - Offering innovative solutions to enhance the security posture of organisations
