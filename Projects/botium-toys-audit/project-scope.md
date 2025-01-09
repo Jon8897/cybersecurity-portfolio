@@ -50,3 +50,6 @@ The potential impact from the loss of an asset is rated as medium, because the I
 - There is no centralized password management system that enforces the password policy’s minimum requirements, which sometimes affects productivity when employees/vendors submit a ticket to the IT department to recover or reset a password.
 - While legacy systems are monitored and maintained, there is no regular schedule in place for these tasks and intervention methods are unclear.
 - The store’s physical location, which includes Botium Toys’ main offices, store front, and warehouse of products, has sufficient locks, up-to-date closed-circuit television (CCTV) surveillance, as well as functioning fire detection and prevention systems.
+
+Refer to the [Botium Toys: Scope, goals, and risk assessment report
+](supporting-docs/Botium-Toys-Scope-goals-and-risk-assessment-report.docx.pdf) for details

@@ -1,6 +1,6 @@
 ## Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio! This repository showcases my hands-on experience in cybersecurity, including projects and tasks completed as part of the **Google Cybersecurity Professional Certificate program**. This portfolio demonstrates my ability to conduct security audits, analyze risks, and apply compliance regulations, along with other cybersecurity skills.
+Welcome to my cybersecurity portfolio! This repository showcases my hands-on experience in cybersecurity, including projects and tasks completed as part of the **Google Cybersecurity Professional Certificate program**. This portfolio demonstrates my ability to conduct security audits, analyse risks, and apply compliance regulations, along with other cybersecurity skills.
 
 ---
 
@@ -16,12 +16,12 @@ The audit focuses on:
 
 - Evaluating current security controls and compliance
 - Identifying risks, threats, and vulnerabilities
-- Strengthening the organization's security posture
+- Strengthening the organisation's security posture
 
 ### **Goals**
 
 1. Ensure compliance with regulations, including GDPR and PCI DSS.
-2. Assess risks and vulnerabilities in the organization's IT infrastructure.
+2. Assess risks and vulnerabilities in the organisation's IT infrastructure.
 3. Recommend controls to mitigate identified risks.
 
 ### **Deliverables**
